@@ -1,0 +1,35 @@
+How coherent is the music variant?
+Mean 14.513513513513514
+Std 3.5088904674144947
+Median 15.0
+Mode 18
+Min 8
+Max 20
+
+
+How different is the variant from the original?
+Mean 6.027027027027027
+Std 2.1145854136145625
+Median 6.0
+Mode 4
+Min 2
+Max 10
+
+
+Are music variants enjoyable?
+Mean 14.675675675675675
+Std 4.534154668574789
+Median 15.0
+Mode 20
+Min 4
+Max 20
+
+
+overall Score35
+Mean 35.21621621621622
+Std 7.7679367170981015
+Median 36.0
+Mode 42
+Min 18
+Max 49
+
